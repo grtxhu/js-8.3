@@ -29,6 +29,7 @@
     "autoprefixer-cli": "^1.0.0",
     "browser-sync": "^2.23.6",
     "globstar": "^1.0.0",
+    "jshint": "^2.9.5",
     "nu-html-checker": "^0.1.0",
     "rimraf": "^2.6.2"
   },
